@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in_with_google">Log In With Google</string>
+</resources>
